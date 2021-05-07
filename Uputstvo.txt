@@ -1,0 +1,13 @@
+Visual studio code otvorite tako sto idete desni klik Run as administrator
+Otvorite oba terminala u Visual Studio Code-u. 
+u prvom kod klijenta idete: 
+cd client
+npm install 
+npm start - ovo kucate nakon sto pokrenete server
+
+u delu kod servera idete:
+cd server
+npm install
+npm start - ukoliko se desi da nemate instaliran nodemone morate onda
+ovu komantu pa tek onda npm start
+
